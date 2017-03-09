@@ -1,0 +1,7 @@
+AboutDialog.java：关于窗口，
+AddEventDialog.java：添加事件窗口，
+FontDialog.java：字体窗口
+HelpDailog.java：将来的帮助窗口
+NewAndroidViewDialog.java：新建页面窗口
+NewProjectDialog.java：新建项目窗口
+WorkSpaceManegerMentDialog.java：工作空间管理窗口

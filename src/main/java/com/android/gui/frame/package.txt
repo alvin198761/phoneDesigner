@@ -1,0 +1,8 @@
+窗体主要框架，都在这个包中，
+BaseDrawComp.java：画图基类，这里只提供获取控件列表的方法
+CenterPanelManager.java：所有界面的布局设置都在这个类，很多公用的swing控件都在这里，
+MainFrame.java：主框架，主窗体，没有其他
+MenuBarManager.java:菜单管理，可以通过这个类控制菜单的显示
+StartWindow.java：欢迎界面窗体
+StatusbarManager.java：状态条管理
+ToolbarManager.java：工具条管理

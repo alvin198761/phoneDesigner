@@ -1,0 +1,5 @@
+BaseCtrlShape.java：控制类控件的顶级父类，所有控制控件的类都有此派生，
+CallLineResizeShape.java：由于历史原因提供了直线和曲线控制都有，但在目前还用不到
+CtrlLineShape.java：由于历史原因提供了直线和曲线控制都有，，但在目前还用不到
+CtrlResizeShape.java：所有的控件改变大小的功能，鼠标拖动时图形的改变都是通过它来决定，提供了各种方位便于控制
+LineResizeShape.java：	由于历史原因提供了直线和曲线控制都有，，但在目前还用不到		

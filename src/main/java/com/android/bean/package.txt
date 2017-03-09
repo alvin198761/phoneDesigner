@@ -1,0 +1,2 @@
+BaseObject.java：顶级父类：继承PropertyChangeSupport，实现 序列号和IBean 可以添加消息监听和发送消息，可以序列号等功能
+IBean.java：所有的类的顶级接口，提供消息机制的接口，和唯一标识的接口，提供名称接口

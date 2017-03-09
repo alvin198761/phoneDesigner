@@ -1,0 +1,7 @@
+系统类：
+ActionManager.java：动作总管理类，可以通过它来产生唯一的Action, 方便管理
+Application.java：所有的公用的属性和对象在这里获取
+ConfigManager.java：历史遗留，无作用
+InstanceControl.java：历史遗留，无作用
+Language.java：语言工具类  历史遗留，无作用
+SMMSystem.java：历史遗留，无作用

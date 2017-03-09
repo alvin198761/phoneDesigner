@@ -1,0 +1,2 @@
+Main.java :主类入口类
+SplashWindow.java：程序进入进入欢迎界面，加载信息时的动画效果都在这里面

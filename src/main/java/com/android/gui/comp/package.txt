@@ -1,0 +1,8 @@
+ImagePreview.java：图片预览控件
+JNumberField.java：数字输入框控件
+JPropertiesTextField.java：属性输入框，正对控件的属性提供
+JSplitButton.java：分割面包，目前没有使用
+JTitlePanel.java：控件列表的面板，
+JXTabbedPane.java：tab控件，拓展了原来的 Jtabbedpane,提供了关闭和缩略图功能
+ScaleCombbox.java：提供画板的缩小和放大功能，该功能尚未完善，因为缩小和放大以后，界面会出现很多问题，项目也没有要求这些功能
+ShapeButton.java：控件列表的按钮，拖拽会根据不同的类型产生不同的控件，

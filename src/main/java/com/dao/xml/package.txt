@@ -1,0 +1,5 @@
+编译和项目保存的业务类
+CompilerBiz.java：编译接口，以后可以提供更高级的实现，目前是xml
+DataIoBiz.java:保存项目的业务接口，目前xml 实现
+EventDataIOBiz.java：加载事件用tree显示出来，这个方法目前太死板，
+		需要加载 ActionTree.xml  ，DeviceTree.xml ，两个固定的xml，这个方式肯定要修改的，但是目前没有提供给我别的方式

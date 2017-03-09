@@ -1,0 +1,4 @@
+MouseActionEntity.java：鼠标事件类，运行后的鼠标点击信息，通过这个类保存
+PageForwardActionEntity.java：运行后页面跳转类，
+ProjectEntity.java：项目对象，一个项目的信息都从这个类开始记录
+ResEntity。java:项目所使用的分辨率

@@ -1,0 +1,12 @@
+AndroidButton.java：按钮对象。不仅提供了按钮的属性，连点击的效果等都进行了提供
+AndroidImageView.java：图片框控件，
+AndroidOsShapeButton.java：图形按钮控件，
+AndroidPageContainer.java：页面控件，所有的其他控件都必须放在页面控件中，该类也是所有的控件和实际的java swing 页面产生关系的纽带
+				提供了，事件，拖拽，选择框等大部分绘制界面需要的工具类和业务类。
+AndroidTempletView.java：模板，该类继承自页面类，但没有实现该功能，以后的需求中会用到
+AndroidTextLable.java：标签，提供了多行多列文本，左中右，上中下对齐的功能，
+BaseAndroidButton.java：按钮的基类，提供按钮常用的鼠标事件等，对按钮的公共属性进行了整理
+BaseAndroidComponent.java：所有安卓控件和容器都从该类继承，该类继承自BaseDataShape，希望以后提供其他语言的控件的时候，也写一个类似的类将他们分开
+				便于区分
+BaseAndroidContainer.java：安卓容器对象，目前可能出现的是页面控件和模板控件，将来会不会出现面包或者更复杂的控件我不得而知，这里提供接口分开，是架构的需要，
+				从实际的角度上他和其他的控件对象没有任何区别，也就是说，只要你原因，可以吧容器放入其他容器中，或者将其他容器放入该容器中都是可以的
