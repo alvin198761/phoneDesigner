@@ -1,20 +1,7 @@
-很久以前swing实现的报表控件，简单的实现，效果图。
+通过swinguml 改造而来，当时是因为别人花钱请我做一个手机界面设计器，我签有协议，里面编译生成，运行等功能被阉割掉了，所有你看到的部分功能是无效，
 
-pie3d 是复制的别人的例子，所以这里不上图了，只是保存一下
-
-
-折线控件
-![image](https://github.com/alvin198761/alvin_swing/blob/master/swing_chart/pic/line_1.png)
-
-折线控件
-![image](https://github.com/alvin198761/alvin_swing/blob/master/swing_chart/pic/line_2.png)
-
-柱状图控件
-![image](https://github.com/alvin198761/alvin_swing/blob/master/swing_chart/pic/bar.png)
-
-
-柱状图控件
-![image](https://github.com/alvin198761/alvin_swing/blob/master/swing_chart/pic/bar3d.png)
-
-饼图控件
-![image](https://github.com/alvin198761/alvin_swing/blob/master/swing_chart/pic/pie.png)
+因为别人花钱，所以，我花时间进行了功能bug 处理和优化，这里面的拖拽，undo redo 都应该是没有bug的，
+ 
+ 
+ 效果图
+![image](https://github.com/alvin198761/phoneDesigner/blob/master/demo.png)
